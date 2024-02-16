@@ -1771,7 +1771,7 @@ button:focus {
 }
 .gallery-grid__item {
   margin-bottom: 1.3125rem;
-  width: calc(33% - 17.5px);
+  width: calc(33% - 15.5px);
 }
 @media only screen and (max-width: 991px) {
   .gallery-grid__item {

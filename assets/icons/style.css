@@ -60,7 +60,7 @@
 .icon-download:before {
   content: "\e906";
 }
-.icon-skype:before {
+.icon-tiktok:before {
   content: "\e900";
 }
 .icon-calendar:before {
@@ -128,4 +128,7 @@
 }
 .icon-pinterest:before {
   content: "\ead1";
+}
+.icon-skype:before {
+  content: "\eac5";
 }
